@@ -8,5 +8,5 @@ export function largestNameOfArray(array:string[]){
     }
     return larger;
 }
-let hero = largestNameOfArray( heroes );
-console.log( hero );
+let hero = largestNameOfArray(heroes);
+console.log(hero);
