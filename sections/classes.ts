@@ -1,6 +1,5 @@
-import { timeLog } from "console";
 
-class Car{
+export class Car{
     readonly brand: string;
     doors: number;
     fuelTank: number;
