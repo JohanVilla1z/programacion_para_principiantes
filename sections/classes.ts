@@ -45,10 +45,3 @@ export class Car{
     }
 }
 let myMazda = new Car('Mazda','Sedan');
-
-console.log(myMazda);
-myMazda.turnOn();
-console.log(myMazda);
-myMazda.fillTank(108);
-console.log(myMazda);
-myMazda.turnOn();
